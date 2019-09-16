@@ -1,4 +1,0 @@
-
-Storetablestrtbl  -  Hashtable 
-AndarAanekarasta  -  Map
-
